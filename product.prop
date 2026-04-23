@@ -1,0 +1,14 @@
+# Miscellaneous
+persist.netmon.linger=10000
+persist.storage.type=2
+restore.feature.use_samsung_smart_switch_flow=1
+ro.camerax.extensions.enabled=false
+ro.com.google.gmsversion=12_202207
+ro.opa.eligible_device=true
+ro.secure_boot.state=1
+ro.setupwizard.mode=OPTIONAL
+ro.setupwizard.rotation_locked=false
+ro.setupwizard.wifi_on_exit=false
+setupwizard.feature.enable_stencil_partner_customization=1
+sys.internal.emulated=1
+
