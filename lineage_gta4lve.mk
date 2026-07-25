@@ -23,4 +23,4 @@ PRODUCT_GMS_CLIENTID_BASE := android-samsung-ss
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildDesc="gta4lvexx-user 12 SP1A.210812.016 T509XXS3AXJ2 release-keys" \
-    BuildFingerprint := samsung/gta4lvexx/gta4lve:12/SP1A.210812.016/T509XXS3AXJ2:user/release-keys
+    BuildFingerprint=samsung/gta4lvexx/gta4lve:12/SP1A.210812.016/T509XXS3AXJ2:user/release-keys
