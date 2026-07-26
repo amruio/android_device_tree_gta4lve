@@ -38,7 +38,7 @@ PRODUCT_PACKAGES += \
     install-recovery.sh \
 
 PRODUCT_PACKAGES += \
-    fstab.ramplus \
+    fstab.P15945AA1 \
     init.P15945AA1.rc \
     init.P15945AA1.usb.rc \
     init.cali.rc \
@@ -51,7 +51,7 @@ PRODUCT_PACKAGES += \
     ueventd.P15945AA1.rc \
 
 PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/rootdir/etc/fstab.ramplus:$(TARGET_COPY_OUT_RAMDISK)/fstab.ramplus
+    $(LOCAL_PATH)/rootdir/etc/fstab.P15945AA1:$(TARGET_COPY_OUT_RAMDISK)/fstab.P15945AA1
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \

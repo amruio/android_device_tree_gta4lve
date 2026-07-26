@@ -79,7 +79,7 @@ prebuilt_etc {
 
 // fstab
 prebuilt_etc {
-    name: "fstab.ramplus",
-    src: "etc/fstab.ramplus",
+    name: "fstab.P15945AA1",
+    src: "etc/fstab.P15945AA1",
     vendor: true,
 }
